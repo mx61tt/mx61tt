@@ -14,16 +14,14 @@ I am currently a smart contract researcher independent. After a few years as a p
 ### Frameworks
 
 - React
-- React Native
 - Brownie
 - Hardhat
 
-### Important
+### Security
 
-- Security
-- Oracles
-
-
+- Common Attack Vectors
+- Auditing Reports
+- Best Practices
 
 #### Github Stats 📊
 
