@@ -7,14 +7,11 @@ I am currently a smart contract researcher independent. After a few years as a p
 
 ### Languages
 
-- Javascript
 - Solidity
 - Rust
 
-### Frameworks
+### Frameworks for Debugging & Testing
 
-- React
-- Hardhat
 - Foundry
 
 ### Security
