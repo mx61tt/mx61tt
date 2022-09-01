@@ -8,14 +8,14 @@ I am currently a smart contract researcher independent. After a few years as a p
 ### Languages
 
 - Javascript
-- Python
 - Solidity
+- Rust
 
 ### Frameworks
 
 - React
-- Brownie
 - Hardhat
+- Foundry
 
 ### Security
 
