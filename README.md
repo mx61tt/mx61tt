@@ -19,7 +19,3 @@ I am currently a smart contract researcher independent. After a few years as a p
 - Common Attack Vectors
 - Auditing Reports
 - Best Practices
-
-#### Github Stats 📊
-
-[![mx61tt's github stats](https://github-readme-stats.vercel.app/api?username=mx61tt)](https://github.com/anuraghazra/github-readme-stats)
