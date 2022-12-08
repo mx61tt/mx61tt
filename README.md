@@ -3,7 +3,14 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mx61tt)
 
 
-I am currently a smart contract learner. After a few years as a pentester, I decide make a transition to Web3. So currently I'm studying the following topics:
+I am currently working as a pentester. I intend to share some of my knowledge and a little bit about what I am currently learning as well. Some topics that I am interested in:
+
+### Mobile Hacking
+
+- Android
+- IOS
+- Frida
+- Objection
 
 ### Ethereum
 
